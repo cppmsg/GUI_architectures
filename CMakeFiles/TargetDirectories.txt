@@ -1,0 +1,3 @@
+C:/a/src/GUI_architectures/CMakeFiles/Game_loop.dir
+C:/a/src/GUI_architectures/CMakeFiles/ALL_BUILD.dir
+C:/a/src/GUI_architectures/CMakeFiles/ZERO_CHECK.dir
